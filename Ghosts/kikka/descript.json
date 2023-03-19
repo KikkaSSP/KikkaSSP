@@ -1,0 +1,17 @@
+{
+    "AuthorInfo": {
+        "name": "A.A",
+        "website": "",
+        "update_url": "",
+        "readme": ""
+    },
+    "config": {
+        "name": "Kikka",
+        "main": "main.py",
+        "requirements": []
+    },
+    "data": {
+
+    }
+
+}

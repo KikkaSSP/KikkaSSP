@@ -1,0 +1,7 @@
+charset,utf-8
+type,shell
+name,装甲削って高機動化
+accept,橘花
+directory,summer_style
+
+

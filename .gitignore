@@ -22,8 +22,3 @@ __pycache__/
 [Rr]eleases/
 
 !Python/README.md
-
-Ghosts/kikka/Resource/Shell/*
-!Ghosts/kikka/Resource/Shell
-!Ghosts/Kikka/Resource/Shell/_Default_1
-!Ghosts/Kikka/Resource/Shell/_Default_2

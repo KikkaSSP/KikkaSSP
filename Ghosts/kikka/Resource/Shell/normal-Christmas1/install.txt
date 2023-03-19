@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,聖誕服裝
+directory,Christmas

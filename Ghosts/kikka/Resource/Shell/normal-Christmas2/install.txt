@@ -1,0 +1,5 @@
+charset,Shift_JIS
+type,shell
+name,クリスマス
+accept,橘花
+directory,Christmas

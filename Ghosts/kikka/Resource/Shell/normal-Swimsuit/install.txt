@@ -1,0 +1,5 @@
+charset,Shift_JIS
+type,shell
+name,スク水
+accept,橘花
+directory,sukumizu

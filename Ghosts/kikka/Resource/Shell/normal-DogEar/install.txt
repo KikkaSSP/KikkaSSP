@@ -1,0 +1,7 @@
+charset,utf-8
+type,shell
+name,犬耳カチューシャとフサフサ尻尾
+accept,橘花
+directory,dog_ear
+
+

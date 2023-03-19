@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,长裙
+directory,long_skirt

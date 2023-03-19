@@ -1,0 +1,5 @@
+charset,Shift_JIS
+type,shell
+name,しましま水着
+accept,橘花
+directory,stripes
